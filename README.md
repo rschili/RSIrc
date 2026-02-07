@@ -5,6 +5,8 @@
 Needed a library for an IRC bot, but only found outdated ones, so I decided to write one myself.
 Spec: https://ircv3.net/
 
+** WIP at the moment this is merely a draft, it is not implemented yet. **
+
 ## Example
 
 Check the github repository for a minimalistic [console example](https://github.com/rschili/RSIrc/blob/main/src/RSIrc.Console/Program.cs).
